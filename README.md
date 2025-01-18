@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aru-14
 - 👀 I’m interested in coding, building new projects and exploring new technologies!
-- 🌱 I’m currently learning Machine Learning and working on a project that predicts the weather using ML.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 You can contact me on linkedin(Arunima Paunikar)
 - 😄 Pronouns: She/her

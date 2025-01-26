@@ -25,6 +25,6 @@
 ### 🌐 Connect With Me   
 - 💼 [LinkedIn](https://www.linkedin.com/in/arunima-paunikar/)  
 - 📂 [GitHub Repositories](https://github.com/Aru-14)  
-- ✉️ Email: [your-email@example.com](arunimapaunikar904@gmail.com)  
+- ✉️ Email:[arunimapaunikar904@gmail.com](arunimapaunikar904@gmail.com)  
 
 ---

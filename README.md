@@ -22,3 +22,9 @@
 - ✈️ Dreams of contributing to groundbreaking technologies in the IT industry.  
 
 ---
+### 🌐 Connect With Me   
+- 💼 [LinkedIn](https://www.linkedin.com/in/arunima-paunikar/)  
+- 📂 [GitHub Repositories](https://github.com/Aru-14)  
+- ✉️ Email: [your-email@example.com](arunimapaunikar904@gmail.com)  
+
+---

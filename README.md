@@ -3,7 +3,6 @@
 ### 🌟 About Me  
 - 🎓 **2nd-year B.Tech undergraduate specializing in Artificial Intelligence and Machine Learning.**  
 - 💻 Passionate about developing **AI-driven solutions** and contributing to innovative projects.  
-- 🌱 Currently challenging me to code for 100 days.
 - 🤖 Aspiring **Software Development Engineer (SDE)** aiming to build scalable and impactful solutions.  
 
 ---

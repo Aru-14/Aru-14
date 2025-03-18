@@ -17,8 +17,8 @@
 
 ### ✨ Fun Facts  
 - 🎨 I love exploring creative ways to solve problems and learning every day, anywhere, from anyone.
-- 📚 A challenger challenging myself.
-- ✈️ A movie and songs lover(**those I like).
+- 💪 A challenger challenging myself. 
+- 🎶 A movie and songs lover(**those I like).
 
 ---
 ### 🌐 Connect With Me   

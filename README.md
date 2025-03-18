@@ -16,9 +16,9 @@
 ---
 
 ### ✨ Fun Facts  
-- 🎨 I love exploring creative ways to solve problems.  
-- 📚 A lifelong learner who thrives on challenges.  
-- ✈️ Dreams of contributing to groundbreaking technologies in the IT industry.  
+- 🎨 I love exploring creative ways to solve problems and learning every day, anywhere, from anyone.
+- 📚 A challenger challenging myself.
+- ✈️ A movie and songs lover(**those I like).
 
 ---
 ### 🌐 Connect With Me   

@@ -2,16 +2,17 @@
 
 ### 🌟 About Me  
 - 🎓 **2nd-year B.Tech undergraduate specializing in Artificial Intelligence and Machine Learning.**  
-- 💻 Passionate about developing **AI-driven solutions** and contributing to innovative projects.  
+- 💻 I'm a Competitive Programmer and learning Full Stack Development in MERN.  
 - 🤖 Aspiring **Software Development Engineer (SDE)** aiming to build scalable and impactful solutions.  
 
 ---
 
 ### ⚡ Skills & Technologies  
+- **DSA**: Strong foundation and Problem Solving along with optimization.
 - **Languages**: Python, C++, Java, SQL, PHP, JS  
 - **Frameworks**: Flask, Bootstrap  
 - **Databases**: MySQL, SQLAlchemy  
-- **Tools**: Git, Vercel, VS Code, Jupyter Notebook   
+- **Tools**: Github, Vercel, VS Code, Jupyter Notebook   
 
 ---
 

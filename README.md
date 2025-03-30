@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aru-14!
+## Hi there 👋, I'm Arunima Paunikar!
 
 ### 🌟 About Me  
 - 🎓 **2nd-year B.Tech undergraduate specializing in Artificial Intelligence and Machine Learning.**  
@@ -8,7 +8,7 @@
 ---
 
 ### ⚡ Skills & Technologies  
-- **Languages**: Python, C++, Java, SQL, PHP  
+- **Languages**: Python, C++, Java, SQL, PHP, JS  
 - **Frameworks**: Flask, Bootstrap  
 - **Databases**: MySQL, SQLAlchemy  
 - **Tools**: Git, Vercel, VS Code, Jupyter Notebook   

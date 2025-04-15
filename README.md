@@ -1,10 +1,13 @@
 ## Hi there 👋, I'm Arunima Paunikar!
 
-### 🌟 About Me  
-- 🎓 **2nd-year B.Tech undergraduate specializing in Artificial Intelligence and Machine Learning.**  
-- 💻 I'm a Competitive Programmer and learning Full Stack Development in MERN.  
-- 🤖 Aspiring **Software Development Engineer (SDE)** aiming to build scalable and impactful solutions.  
+🌟 About Me
+🎓 2nd-year B.Tech undergraduate specializing in Artificial Intelligence and Machine Learning.
 
+💻 Full-stack developer with strong foundations in DSA.
+
+💻 I'm a Competitive Programmer and learning Full Stack Development in MERN.
+
+🤖 Aspiring Software Development Engineer (SDE) aiming to build scalable and impactful solutions.
 ---
 
 ### ⚡ Skills & Technologies  

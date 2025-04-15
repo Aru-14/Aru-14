@@ -8,6 +8,7 @@
 💻 I'm a Competitive Programmer and learning Full Stack Development in MERN.
 
 🤖 Aspiring Software Development Engineer (SDE) aiming to build scalable and impactful solutions.
+
 ---
 
 ### ⚡ Skills & Technologies  

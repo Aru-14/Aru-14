@@ -2,7 +2,7 @@
 
 🌟 About Me
 
-🎓 3rd-year B.Tech undergraduate specializing in Artificial Intelligence and Machine Learning.
+🎓 3rd-year B.Tech student specializing in Artificial Intelligence and Machine Learning.
 
 💻 MERN stack developer with strong foundations in DSA.
 

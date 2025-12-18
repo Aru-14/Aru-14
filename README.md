@@ -37,6 +37,8 @@ I am an **Aspiring Software Engineer** passionate about building scalable applic
 * **DevOps/Tools:** Git/GitHub, Postman, Vercel, Streamlit, VS Code, Jupyter Notebook, Google Collab, Render.
 * **Core Concepts:** DSA (**LeetCode Rating: 1660 and Codeforces Rating: 1012 (as of Dec 2025)**), OOP, OS, DBMS, Computer Networks.
 
+-----
+
 
 ### ✨ Fun Facts  
 - 🎨 I love exploring creative ways to solve problems and learning every day, anywhere, from anyone.

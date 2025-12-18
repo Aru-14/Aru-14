@@ -27,7 +27,7 @@ I am an **Aspiring Software Engineer** passionate about building scalable applic
 * **Concepts:** RESTful APIs, Asynchronous Programming, System Design.
 
 ### 🗄️ Databases & Storage
-* **Vector:** **ChromaDB**, FAISS.
+* **Vector:** **ChromaDB**
 * **Relational:** MySQL, SQLAlchemy.
 * **NoSQL:** MongoDB.
 

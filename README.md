@@ -4,10 +4,10 @@
 
 I am an **Aspiring Software Engineer** passionate about building scalable applications and integrating them with AI solutions. My focus is on combining strong software engineering principles with practical AI implementations like **RAG pipelines** and **Agents**.
 
-* 💻 **Software Engineering:** Solid foundation in **Data Structures & Algorithms** (LeetCode Rating: 1660 and Codeforces Rating: 1012 (as of Dec 2025) and **System Design**
-* 🚀 **Full Stack + AI:** Experienced in developing **MERN** and **FastAPI** applications integrated with **Generative AI** capabilities (e.g., *EasyJuris*, *JEE Saathi AI*).
-* 🧠 **Technical Focus:** Integrating **AI capabilities** into robust software architectures to engineer effective solutions for **real-world problems**.
-* 🎯 **Goal:** To join an engineering team and build impactful, AI-powered software solutions.
+* **Software Engineering:** Solid foundation in **Data Structures & Algorithms** (LeetCode Rating: 1660 and Codeforces Rating: 1012 (as of Dec 2025) and **System Design**
+* **Full Stack + AI:** Experienced in developing **MERN** and **FastAPI** applications integrated with **Generative AI** capabilities (e.g., *EasyJuris*, *JEE Saathi AI*).
+* **Technical Focus:** Integrating **AI capabilities** into robust software architectures to engineer effective solutions for **real-world problems**.
+* **Goal:** To join an engineering team and build impactful, AI-powered software solutions.
 
 ----
 

@@ -42,7 +42,7 @@ I am an **Aspiring Software Engineer** passionate about building scalable applic
 
 ### ✨ Fun Facts  
 - 🎨 I love exploring creative ways to solve problems and learning every day, anywhere, from anyone.
-- 💪 A challenger challenging myself. 
+- 💪 A challenger challenging herself. 
 - 🎶 A movie and songs lover (**those I like).
 
 ---

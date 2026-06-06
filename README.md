@@ -1,6 +1,6 @@
 # 🌟 About Me
 
-🎓 **Pre-final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**.
+🎓 **Final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**.
 
 I am an **Aspiring Software Engineer** passionate about building scalable applications and integrating them with AI solutions. My focus is on combining strong software engineering principles with practical AI implementations like **RAG pipelines** and **Agents**.
 

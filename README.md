@@ -34,7 +34,7 @@ I am an **Aspiring Software Engineer** passionate about building scalable applic
 
 ### 🔧 Tools, Languages & Core
 * **Languages:** Python, C++, Java, JavaScript, SQL, PHP
-* **DevOps/Tools:** Git/GitHub, Postman, Vercel, Streamlit, VS Code, Jupyter Notebook, Google Collab, Render.
+* **DevOps/Tools:** Git/GitHub, Postman, Vercel, Streamlit, VS Code, Jupyter Notebook, Google Collab, Render, Docker
 * **Core Concepts:** DSA (**LeetCode Rating: 1660 and Codeforces Rating: 1012 (as of Dec 2025)**), OOP, OS, DBMS, Computer Networks.
 
 -----

@@ -18,9 +18,9 @@ I am an **Aspiring Software Engineer** passionate about building scalable applic
 - **AI & Machine Learning:** Deep Learning, Computer Vision, Machine Learning
 - **Architectures & Frameworks:** CNNs, Vision Transformers (ViT, Swin), YOLOv11, PyTorch, TensorFlow
 - **Generative AI & NLP:** LLMs, Retrieval-Augmented Generation (RAG), Fine-Tuning
-* **Models & APIs:** Google Gemini (1.5 Pro/Flash), **Llama 4 Scout (17B)**, Groq API, Vision Models (OCR).
-* **Techniques:** Prompt Engineering
-* **ML Libraries:** Keras (**EfficientNetV2B2**), Scikit-learn, Pandas, NumPy.
+- **Models & APIs:** Google Gemini (1.5 Pro/Flash), **Llama 4 Scout (17B)**, Groq API, Vision Models (OCR).
+- **Techniques:** Prompt Engineering
+- **ML Libraries:** Keras (**EfficientNetV2B2**), Scikit-learn, Pandas, NumPy.
 
 ### 💻 Full Stack Development (MERN)
 * **Backend:** **FastAPI** (Async), Node.js, Express.js, Flask, PHP.

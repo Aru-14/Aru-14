@@ -2,7 +2,7 @@
 
 🎓 **Final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**.
 
-I am an **Aspiring Software Engineer** passionate about building scalable applications and integrating them with AI solutions. My focus is on combining strong software engineering principles with practical AI implementations like **RAG pipelines** and **Agents**.
+I am an **Aspiring Software Engineer** passionate about building scalable applications and integrating them with AI solutions. My focus is on combining strong software engineering principles with practical AI implementations like **RAG pipelines**, etc. I'm a research author having publication in IEEE Xplore in the domain of Computer Vision, AI, DL.
 
 * **Software Engineering:** Solid foundation in **Data Structures & Algorithms** (LeetCode Rating: 1701 and Codeforces Rating: 1012 (as of Dec 2025) and **System Design**
 * **Full Stack + AI:** Experienced in developing **MERN** and **FastAPI** applications integrated with **Generative AI** capabilities (e.g., *JEE-Saathi AI*).
